@@ -1,0 +1,200 @@
+vCard - Personal Portfolio
+
+# sidebar
+
+alt = Santhosh Kambham
+Santhosh kambham
+Web developer
+
+Show Contacts
+
+Email
+santhoshkambham72@gmail.com
+
+Phone
++91 89779 03787
+
+Birthday
+September 12, 2005
+
+Location
+Rajahmundry, Andhra Pradesh, India
+
+# navbar
+
+About
+Resume
+Portfolio
+Blog
+Contact
+
+# about
+
+About me
+
+I'm an enthusiastic Web Developer with a strong foundation in HTML, CSS, Javascript, and front-end frameworks like React and Bootstrap. Eager to apply my skills to build engaging, user-friendly websites and grow in a collaborative development environment. Continuously learning to build scalable and high-performance web platforms.
+
+I enjoy turning complex problems into simple, beautiful and intuitive designs. My job is to build your website so that it is functional and user-friendly but at the same time attractive. My aim is to bring across your message and identity in the most creative way.
+
+
+## service
+
+What i'm doing
+
+alt = design icon
+Web design
+The most modern and high-quality design made at a professional level.
+
+alt = Web development icon
+Web development
+High-quality development of sites at the professional level.
+
+alt = camera icon
+Photography
+I make high-quality photos of any category at a professional level.
+
+
+## clients
+
+Clients
+
+alt = client logo
+
+
+
+# resume
+
+Resume
+
+Education
+
+Sri Chaithanya Techno School, Rajahmundry
+2020 — 2021
+Achieved a CGPA of 10/10, with strong performance in Mathematics, Science, and English. 
+
+Sasi Junior College, Rajahmundry
+2021 — 2023
+Completed my intermediate course with a CGPA of 9.45/10 in my hometown itself. 
+
+Aditya Engineering College, Surampalem
+2023 — 2027
+Currently pursuing my third year of a Bachelor of Technology degree in Computer Science and Engineering, with coursework focused on web development, data structures, and software engineering. 
+
+
+My skills
+
+Web design
+80%
+Photo design
+70%
+Graphic design
+50%
+
+
+
+# portfolio
+
+Portfolio
+
+All
+Web design
+Applications
+Web development
+
+Select category
+All
+Web design
+Applications
+Web development
+
+alt = finance
+Finance
+Web development
+
+alt = orizon
+Orizon
+Web development
+
+alt = fundo
+Fundo
+Web design
+
+alt = brawlhalla
+Brawlhalla
+Applications
+
+alt = dsm.
+DSM.
+Web design
+
+alt = metaspark
+MetaSpark
+Web design
+
+alt = summary
+Summary
+Web development
+
+alt = task manager
+Task Manager
+Applications
+
+alt = arrival
+Arrival
+Web development
+
+
+
+# blog
+
+Blog
+
+alt = Design conferences in 2022
+Design
+Feb 23, 2022
+Design conferences in 2022
+Explore top design conferences that shaped the creative industry in 2022, featuring insights, trends, and expert talks.
+
+alt = Best fonts every designer
+Design
+Feb 23, 2022
+Best fonts every designer
+Accurated list of essential fonts that every designer should know, with tips on usage and visual impact.
+
+alt = Design digest #80
+Design
+Feb 23, 2022
+Design digest #80
+A visual roundup of creative patterns, color palettes, and modern design inspirations from the week.
+
+alt = UI interactions of the week
+Design
+Feb 23, 2022
+UI interactions of the week
+Discover standout UI animations and micro-interactions that enhance user experience and elevate modern interfaces.
+
+alt = The forgotten art of spacing
+Design
+Feb 23, 2022
+The Forgotten Art Of Spacing
+An exploration of how white space and layout balance can transform a design from cluttered to captivating.
+
+alt = Design digest #79
+Design
+Feb 23, 2022
+Design Digest #79
+A weekly highlight of bold visual trends, sleek layouts, and color stories that inspired designers around the world.
+
+
+
+# contact
+
+Contact
+
+Contact Form
+
+Full name
+Email address
+Your Message
+
+Send Message
